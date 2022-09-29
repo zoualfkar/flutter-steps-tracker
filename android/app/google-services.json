@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "386963455699",
+    "project_id": "steps-tacker",
+    "storage_bucket": "steps-tacker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386963455699:android:4cd2b1c16f491874921e26",
+        "android_client_info": {
+          "package_name": "com.example.steps_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386963455699-liqt42se7robrkq1aiod4g55edrjc87h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.steps_tracker",
+            "certificate_hash": "2d782e5168fd10d8c720d58f1dadab1eed5a7539"
+          }
+        },
+        {
+          "client_id": "386963455699-mu6t4n5ab898jhqphled660aavst3e0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkkIZNsLK6MhEgK-i7Wtn2EHBRUA3hIzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386963455699-mu6t4n5ab898jhqphled660aavst3e0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
